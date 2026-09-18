@@ -1,5 +1,0 @@
-"Supuesto","Metrica_Test","p_valor","Evaluacion"
-"Multicolinealidad (VIF)","Max VIF = 2.12","N/A","Cumplido (Todos los VIF < 3)"
-"Homocedasticidad (Breusch-Pagan)","LM = 6119.07 (df = 6)","< 0.001","Heterocedasticidad moderada por escala"
-"Normalidad (Kolmogorov-Smirnov)","D = 0.1334","< 0.001","Desviacion leve en colas extremas"
-"Independencia (Durbin-Watson)","d = 2.0000","N/A","Cumplido (d ~ 2.0)"

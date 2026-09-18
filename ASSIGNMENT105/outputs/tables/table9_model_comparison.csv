@@ -1,3 +1,0 @@
-"Model","R_Squared","Adj_R_Squared","Residual_SE","AIC","BIC","F_Statistic","df"
-"Model 1: OLS Linear (total_amount)",0.8334,0.8334,74.0278,394932.2,395084.27,10784.69,34483
-"Model 2: Log-Transformed (log(total_amount))",0.9963,0.9963,0.0554,-101668.65,-101516.57,580588.78,34483
