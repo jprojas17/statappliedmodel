@@ -1,0 +1,8 @@
+"Metric","Value"
+"Base Rate (Prevalencia)",0.0795
+"Optimal Threshold",0.0795
+"Accuracy",0.4901
+"Sensitivity (Recall)",0.5569
+"Specificity",0.4843
+"Precision (PPV)",0.0853
+"F1-Score",0.148
